@@ -1,0 +1,10 @@
+
+40mm fan info:
+3.5mm holes, 32mm on center
+width 40mm, thickness is 10mm
+air tunnel is 38.4mm diam
+radius of corners is 8mm as that fits the delta between 32mm ctc holes and 40mm square.
+
+
+
+

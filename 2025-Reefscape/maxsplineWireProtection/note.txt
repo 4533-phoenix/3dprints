@@ -1,0 +1,6 @@
+maxspline wire guard to go in the bores of a tubing
+just make it a circle of outer diam meeting bore 27.5mm
+27.5mm inside against bore, thickness 1mm probably.
+then 29mm is the outer diam that holds it in place.
+3mm tall against tubing in case it's not the 'light' maxtube
+
