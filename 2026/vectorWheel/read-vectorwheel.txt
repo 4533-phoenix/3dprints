@@ -1,0 +1,11 @@
+
+Two parts we ordered from Mcmaster Carr were the metal dowel pin and the O-ring.
+See the actual step file which lists each item in it's assembly.
+Metal Dowel is:
+1/8" X 1.25" McMaster-Carr # 98381A477 or 98381A477_12
+
+O-ring is:
+3/8" ID x 1/8" McMaster-Carr# 1173N204_3
+
+you need 6 dowels and 24 o-rings per wheel.
+
