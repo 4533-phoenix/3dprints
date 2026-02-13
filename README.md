@@ -4,6 +4,8 @@
 
 # Files herein
 
+./2026/vectorWheel - contains vector wheel used to move 6" ball
+
 Battery holder ideas. This takes bungie 3/16" or 1/4" cord
 
 ./2025-Reefscape/BatteryHolder/BatterHoldDown3.stl
