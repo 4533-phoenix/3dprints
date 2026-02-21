@@ -6,17 +6,17 @@
 
 ./2026/vectorWheel - contains vector wheel used to move 6" ball
 
-Battery holder ideas. This takes bungie 3/16" or 1/4" cord
+## Battery holder ideas. This takes bungie 3/16" or 1/4" cord
 
 ./2025-Reefscape/BatteryHolder/BatterHoldDown3.stl
 
 ./2025-Reefscape/BatteryHolder/BatteryBall34mm.stl
 
-Bolt covers for that 120 Amp breaker
+## Bolt covers for that 120 Amp breaker
 
 ./2025-Reefscape/BreakerBoltCovers/BreakerBoltCover.stl
 
-Camera Enclosures (boxes)
+## Camera Enclosures (boxes that house fragile camera board)
 
 ./2025-Reefscape/CameraEnclosures/GlobalShutter/Case_Back.stl
 
@@ -26,7 +26,7 @@ Camera Enclosures (boxes)
 
 ./2025-Reefscape/CameraEnclosures/UVC2-ThriftyFootprint/cameraTop.stl
 
-Camera mounts for Global shutter and Thriftybot camera and similar.
+## Camera mounts for Global shutter and Thriftybot camera and similar (stand or structure to mount camera box to robot).
 
 ./2025-Reefscape/CameraMounts/CameraMountThriftyType/CamMountThrify.stl
 
@@ -40,7 +40,7 @@ Camera mounts for Global shutter and Thriftybot camera and similar.
 
 ./2025-Reefscape/CameraMounts/SwerveTop mount/ThriftyCamMountTopSwerve2.stl
 
-Earings related to the Reefscape imagery, yes coral shaped spongebob.
+## Earings related to the Reefscape imagery, yes coral shaped spongebob for wearing as earing (Imagery).
 
 ./2025-Reefscape/Earings/Coral3.stl
 
@@ -48,7 +48,7 @@ Gyro related, this is cover for old gyro
 
 ./2025-Reefscape/GyroCover-ADXRS450/cover.stl
 
-Pit related
+## Pit related
 
 ./2025-Reefscape/Pit/ClearPitBoxLidRelated/BoxPropOpen10Deg.stl
 
@@ -58,19 +58,19 @@ Pit related
 
 ./2025-Reefscape/Pit/RodEnds/Rodend19mil.stl
 
-Radio Signal Light related:
+## Radio Signal Light related:
 
 ./2025-Reefscape/RSL-LightMounts/RSL-ElevatorMount1.stl
 
 ./2025-Reefscape/RSL-LightMounts/RSL-washer.stl
 
-Radio Related, these help cool the VH-109 radio. Mount a metal bracket under radio also, or it could still overheat.
+## Radio Related, these help cool the VH-109 radio. Mount a metal bracket under radio also, or it could still overheat.
 
 ./2025-Reefscape/RadioRelated/40mmV2.stl
 
 ./2025-Reefscape/RadioRelated/FanMountForVH109Radio/VH109-TopAirTunnel40mmFan.stl
 
-Lots of sensor mounts, including Adafruit 2168 break beam 
+## Lots of sensor mounts, including Adafruit 2168 break beam 
 
 ./2025-Reefscape/SensorMounts/IR-Beam-Adafruit-2168/BeamMountIR.stl
 
@@ -84,11 +84,11 @@ Lots of sensor mounts, including Adafruit 2168 break beam
 
 ./2025-Reefscape/SensorMounts/RevMagneticLimit/RevMagneticLimitOnMaxSplineNarrow.stl
 
-Plate that goes on top of Swerve modules, just need a section of churro to stand it off above.
+## Plate that goes on top of Swerve modules, just need a section of churro to stand it off above.
 
 ./2025-Reefscape/SwerveProtectorPlate2025/Chassis Parts - Swerve Drive Protector Plate.stl
 
-Wire Protection related. Bore protector goes into the maxtube and protects wire against metal edges.
+## Wire Protection related. Bore protector goes into the maxtube and protects wire against metal edges.
 
 ./2025-Reefscape/maxsplineWireProtection/maxtubingBoreWireProtectInsert.stl
 
