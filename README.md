@@ -64,11 +64,6 @@ Gyro related, this is cover for old gyro
 
 ./2025-Reefscape/RSL-LightMounts/RSL-washer.stl
 
-## Radio Related, these help cool the VH-109 radio. Mount a metal bracket under radio also, or it could still overheat.
-
-./2025-Reefscape/RadioRelated/40mmV2.stl
-
-./2025-Reefscape/RadioRelated/FanMountForVH109Radio/VH109-TopAirTunnel40mmFan.stl
 
 ## Lots of sensor mounts, including Adafruit 2168 break beam 
 
